@@ -105,3 +105,6 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+## Student Response:
+**Hello, Professor! I've read through this Github course and will be submitting a Pull Request shortly.**
