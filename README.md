@@ -107,4 +107,5 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub community forum](https://github.community/)
 
 ## Student Response:
-**Hello, Professor! I've read through this Github course and will be submitting a Pull Request shortly.**
+**Hello, Professor! 👋 
+I've read through this Github course and will be submitting a Pull Request shortly.**
